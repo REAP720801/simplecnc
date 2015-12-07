@@ -1,3 +1,4 @@
 PGM machinedpart; 1.h mm
 BLK FORM 0.1 Z X0 Y0 Z0
 BLK FORM 0.2 Z X20 Y100 Z-20
+TOOL CALL 1 Z S F
